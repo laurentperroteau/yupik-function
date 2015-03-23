@@ -1,9 +1,9 @@
 Yupik Function
 ==============
 
-## reworking in progress !
-
 ### "Response" function and other functions only useful to mixins
+
+> Is part of [Yupik collection of modules](https://github.com/laurentperroteau/yupik)
 
 Install using Bower:
 
